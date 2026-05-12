@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#E8B5B5&height=120&section=header&text=&fontSize=0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F2D0E8&height=120&section=header&text=&fontSize=0"/>
 
 <br/>
 
@@ -17,8 +17,8 @@
 <br/>
 
 <!-- BADGES -->
-[![Email](https://img.shields.io/badge/Email-Maryam.gomaa.us@gmail.com-1a1a2e?style=flat-square&logo=gmail&logoColor=C9A84C)](mailto:Maryam.gomaa.us@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-R0MY--tech-1a1a2e?style=flat-square&logo=github&logoColor=C9A84C)](https://github.com/R0MY-tech)
+[![Email](https://img.shields.io/badge/Email-Maryam.gomaa.us@gmail.com-1a1a2e?style=flat-square&logo=gmail&logoColor=F2D0E8)](mailto:Maryam.gomaa.us@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-R0MY--tech-1a1a2e?style=flat-square&logo=github&logoColor=F2D0E8)](https://github.com/R0MY-tech)
 
 <br/>
 
@@ -38,10 +38,10 @@ Outside of school, I build side projects, explore AI tools, and participate in S
 
 **Core**
 
-![HTML](https://img.shields.io/badge/HTML-1a1a2e?style=flat-square&logo=html5&logoColor=C9A84C)
-![CSS](https://img.shields.io/badge/CSS-1a1a2e?style=flat-square&logo=css3&logoColor=C9A84C)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=C9A84C)
-![Figma](https://img.shields.io/badge/Figma-1a1a2e?style=flat-square&logo=figma&logoColor=C9A84C)
+![HTML](https://img.shields.io/badge/HTML-1a1a2e?style=flat-square&logo=html5&logoColor=F2D0E8)
+![CSS](https://img.shields.io/badge/CSS-1a1a2e?style=flat-square&logo=css3&logoColor=F2D0E8)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=F2D0E8)
+![Figma](https://img.shields.io/badge/Figma-1a1a2e?style=flat-square&logo=figma&logoColor=F2D0E8)
 
 **Supporting**
 
@@ -58,9 +58,9 @@ Outside of school, I build side projects, explore AI tools, and participate in S
 ### ⭐ [Study Path — AI Entrepreneurship Project](https://study-path-palace.lovable.app/)
 > A service designed to help high schoolers in grades 9–12 beat procrastination and get their school work done without distractions.
 
-![AI](https://img.shields.io/badge/AI-1a1a2e?style=flat-square&logoColor=C9A84C)
-![Entrepreneurship](https://img.shields.io/badge/Entrepreneurship-1a1a2e?style=flat-square&logoColor=C9A84C)
-![Web](https://img.shields.io/badge/Web-1a1a2e?style=flat-square&logoColor=C9A84C)
+![AI](https://img.shields.io/badge/AI-1a1a2e?style=flat-square&logoColor=F2D0E8)
+![Entrepreneurship](https://img.shields.io/badge/Entrepreneurship-1a1a2e?style=flat-square&logoColor=F2D0E8)
+![Web](https://img.shields.io/badge/Web-1a1a2e?style=flat-square&logoColor=F2D0E8)
 
 <details>
 <summary>📖 Read more...</summary>
@@ -122,9 +122,9 @@ This project was completed as part of the **RWC UX/UI Design program** at NJIT.
 ### [Graphic Design Website](https://r0my-tech.github.io/GraphicDesigning.github.io/)
 > A personal website about graphic design, built from scratch using HTML, CSS, and JavaScript.
 
-![HTML](https://img.shields.io/badge/HTML-444?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-444?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-444?style=flat-square&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-444?style=flat-square&logo=html5&logoColor=F2D0E8)
+![CSS](https://img.shields.io/badge/CSS-444?style=flat-square&logo=css3&logoColor=F2D0E8)
+![JavaScript](https://img.shields.io/badge/JavaScript-444?style=flat-square&logo=javascript&logoColor=F2D0E8)
 
 <details>
 <summary>📖 Read more...</summary>
@@ -202,6 +202,6 @@ Feel free to reach out — I'd love to connect!
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C9A84C&height=80&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=F2D0E8&height=80&section=footer"/>
 
 </div>
